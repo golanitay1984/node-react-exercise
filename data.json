@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Go",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Update trello board",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Create unit tests",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Participate in OC project",
+    "completed": false
+  }
+]
